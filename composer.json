@@ -1,0 +1,15 @@
+{
+    "name": "druzdev/php-mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "idruz",
+            "email": "ihor.druz.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
